@@ -51,5 +51,5 @@ Sinta-se à vontade para contribuir com melhorias ou sugerir novas funcionalidad
 
 ---
 
-Feito por [Bruno Chaves](https://github.com/seuusuario) 🚀
+Feito por [Bruno Chaves](https://github.com/eubrunochavesdev) 🚀
 
